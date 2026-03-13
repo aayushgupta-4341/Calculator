@@ -65,7 +65,6 @@ unique-calculator
 ## 📸 Preview
 
 <img width="1913" height="967" alt="Screenshot 2026-03-13 163930" src="https://github.com/user-attachments/assets/fa5b1cd5-4cfd-4980-a18b-c50153d7a1ab" />
-<img width="1913" height="967" alt="Screenshot 2026-03-13 163930" src="https://github.com/user-attachments/assets/fa5b1cd5-4cfd-4980-a18b-c50153d7a1ab" />
 
 ---
 
